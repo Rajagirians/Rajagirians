@@ -40,3 +40,19 @@ print('The investment rate has been calculated:',investment_ratio )
 if investment_ratio>0.5:
     print('Investment rate>50%，The higher the proportion, the stronger the ability of wealth appreciation')
 print('----------------------------------')
+
+
+Abstract:
+
+Analysis of family financial health
+Answer: liquidity ratio: 24000-6000 = 4, between 3 and 6
+The test is the ability to cope with emergencies, which is reasonable between 36 months, that is, 36 months of expenditure should be left as a reserve fund.
+Asset liability ratio: 200000-800000 = 25%, < 50%
+The test is debt health, the reasonable range should be less than 50%.
+Debt repayment rate: 3000-1000 = 30%, < 50%
+To test the debt repayment ability, the ratio should be less than 50%. When banks examine loans, they usually use this as a standard to measure the financial resilience of households.
+Saving ratio: 4000-1000 = 0.4, > 30
+The reasonable range of this ratio should be greater than 30%. The larger the ratio, the faster the capital accumulation
+Investment rate: 25W / 60W = 41.7% < 50%
+This ratio should be greater than 50%. The higher the ratio of investment to net assets, the stronger the ability of wealth appreciation. If it is lower than this value, it means that there are more idle funds.
+Therefore, Manoj's financial situation: healthy, but less investment, idle too much
